@@ -140,7 +140,7 @@
             android:layout_width="182dp"
             android:layout_height="wrap_content"
             android:backgroundTint="@android:color/secondary_text_light_nodisable"
-            android:onClick="btnEquals"
+            android:onClick="num"
             android:text="="
             android:textColor="@color/white"
             app:cornerRadius="0dp"
